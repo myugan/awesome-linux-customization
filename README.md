@@ -81,6 +81,12 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - **Plank** - A simplest dock on the planet, famous dock for linux user.
 
+## Logout Screen
+
+- **lxsession-logout** - A nice banner-style logout dialog for the LXDE.
+- **oblogout** - GTK/Cairo based logout box styled for openbox.
+- **clearine** - Yet another GTK3-based logout-window overlay for independent windowmanager 
+
 ## Tweaks
 
 - **wal** - Generate and change colorschemes on the fly.
@@ -89,7 +95,6 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - **obtgen** - Openbox theme generator.
 - **Shift** - An instantly window manager theme changer.
 - **colorfil** - Generate 16 color for Xresources colorscheme from one-color.
-- **clearine** - Yet another GTK3-based logout-window overlay for independent windowmanager 
 
 ## Contribute
 

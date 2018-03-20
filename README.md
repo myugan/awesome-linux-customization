@@ -85,6 +85,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - **wal** - Generate and change colorschemes on the fly.
 - **pywal** - Generate and change colorschemes on the fly. A `wal` rewrite in Python 3.  
+- **wpgtk** - A powerful GTK+ frontend for pywal, adding features such as flexible templates and editing colorschemes.
 - **tintyourday** - Generate your `tint2` config with Xresources color 
 - **obtgen** - Openbox theme generator.
 - **Shift** - An instantly window manager theme changer.

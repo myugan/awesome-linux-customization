@@ -80,6 +80,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 ## Dock
 
 - **Plank** - A simplest dock on the planet, famous dock for linux user.
+- **Cairo Dock** - A desktop interface that takes the shape of docks, desklets, panel, etc
 
 ## Tweaks
 

@@ -9,6 +9,7 @@ This is a list of customization tools for Linux user to make the desktop more ae
   - [Music Visualizer](#music-visualizer)
   - [Image Viewer](#image-viewer)
   - [System Info](#system-info)
+  - [Text Editor](#text-editor)
   - [Terminal](#terminal)
   - [Menu](#menu)
   - [Panel](#panel)
@@ -31,6 +32,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - **ranger** - A vim inspired filemanager for console.
 - **Thunar** - A modern file manager for the Xfce Desktop Environment.
+- **PCManFM** - A lightweight Gtk+ based file manager for X Window.
 
 ## Music Player
 
@@ -58,6 +60,11 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - **screenfetch** - Bash screenshot information tool.
 - **ufetch** - Tiny system info for Unix-like operating systems
 
+## Text Editor
+
+- **neovim** - Vim-fork focused on extensibility and usability.
+- **vim** - Vi IMproved, a programmer's text editor.
+
 ## Terminal
 
 - **rxvt-unicode** - A customizable terminal emulator forked from `rxvt`.
@@ -67,6 +74,8 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 ## Menu
 
 - **dmenu** - A fast and lightweight dynamic menu for X.
+- **jgmenu** - Small X11 menu intended to be used with openbox and tint2.
+- **myGtkMenu** - GTK2, GTK3 standalone & lightweight menu written in C
 - **rofi** - A window switcher, application launcher and dmenu replacement
 
 ## Panel

@@ -38,24 +38,21 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - [**mpc**](https://github.com/MusicPlayerDaemon/mpc) - Client for `mpd`, responsible for telling lemonbar about the currently playing media.
 - [**mpd**](https://github.com/MusicPlayerDaemon/MPD) - A daemon for playing music of various formats with `ncmpcpp` as client.
-- [**cmus**](https://github.com/cmus/cmus) - A small ncurses based music player. <!-- need more info -->
+- [**cmus**](https://github.com/cmus/cmus) - A small ncurses based music player.
 
 - [**ncmpcpp**](https://github.com/arybczak/ncmpcpp) - An ncurses Music Player Daemon (MPD) client.
 
 ## Music Visualizer
 
 - [**cava**](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa (MPD and Pulseaudio). 
-
-
 - [**mpdviz**](https://github.com/lucy/mpdviz) - Console mpd visualizer like `cava`.
 
 ## Image Viewer
  
 - [**feh**](https://github.com/derf/feh) - A lightweight image viewer.
 - [**sxiv**](https://github.com/muennich/sxiv) - Simple X Image viewer like `feh`.
-
-- [**n30f**](https://github.com/sdhand/n30f) - Image viewer to display an image in a borderless and transparent non-wm-managed window.  <!-- need more info -->
-- [**gpicview**](https://wiki.lxde.org/en/GPicView) - A Simple and Fast Image Viewer for X. <!-- need more info -->
+- [**n30f**](https://github.com/sdhand/n30f) - Image viewer to display an image in a borderless and transparent non-wm-managed window.
+- [**gpicview**](https://wiki.lxde.org/en/GPicView) - A Simple and Fast Image Viewer for X.
 - [**nitrogen**](https://github.com/l3ib/nitrogen) - A GUI background previewer and setter.
 
 ## System Info
@@ -78,9 +75,9 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 ## Menu
 
-- [**dmenu**](https://github.com/l3pp4rd/dmenu) - A fast and lightweight dynamic menu for X. <!-- need more info -->
+- [**dmenu**](https://github.com/l3pp4rd/dmenu) - A fast and lightweight dynamic menu for X.
 - [**jgmenu**](https://github.com/johanmalm/jgmenu) - Small X11 menu intended to be used with openbox and tint2.
-- [**myGtkMenu**](https://sites.google.com/site/jvinla/mygtkmenu) - GTK2, GTK3 standalone & lightweight menu written in C <!-- need more info -->
+- [**myGtkMenu**](https://sites.google.com/site/jvinla/mygtkmenu) - GTK2, GTK3 standalone & lightweight menu written in C.
 - [**rofi**](https://github.com/DaveDavenport/rofi) - A window switcher, application launcher and dmenu replacement
 
 ## Panel
@@ -99,7 +96,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 ## Logout Screen
 
 - [**lxsession-logout**](https://wiki.lxde.org/en/LXSession) - A nice banner-style logout dialog for the LXDE.
-- [**oblogout**](https://wiki.archlinux.org/index.php/Oblogout) - GTK/Cairo based logout box styled for openbox.<!-- need more info -->
+- [**oblogout**](https://wiki.archlinux.org/index.php/Oblogout) - GTK/Cairo based logout box styled for openbox.
 - [**clearine**](https://github.com/yuune/clearine) - Yet another GTK3-based logout-window overlay for independent windowmanager 
 
 ## Tweaks
@@ -110,7 +107,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**tintyourday**](https://github.com/yuune/tintyourday) - Generate your `tint2` config with Xresources color 
 - [**obtgen**](https://github.com/fikriomar16/obtgen) - Openbox theme generator.
 - [**Shift**](https://github.com/noirecat/Shift ) - An instantly window manager theme changer.
-- **colorfil** - Generate 16 color for Xresources colorscheme from one-color. <!-- need more info-->
+- [**colorfil**](https://github.com/yuune/colorfil) - Generate 16 color for Xresources colorscheme from one-color.
 - [**colorls**](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
 
 ## Contribute

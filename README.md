@@ -39,7 +39,6 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**mpc**](https://github.com/MusicPlayerDaemon/mpc) - Client for `mpd`, responsible for telling lemonbar about the currently playing media.
 - [**mpd**](https://github.com/MusicPlayerDaemon/MPD) - A daemon for playing music of various formats with `ncmpcpp` as client.
 - [**cmus**](https://github.com/cmus/cmus) - A small ncurses based music player.
-
 - [**ncmpcpp**](https://github.com/arybczak/ncmpcpp) - An ncurses Music Player Daemon (MPD) client.
 
 ## Music Visualizer

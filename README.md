@@ -68,6 +68,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - [**neovim**](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [**vim**](https://github.com/vim/vim) - Vi IMproved, a programmer's text editor.
+- [**Spacevim**](https://github.com/SpaceVim/SpaceVim) - Community-driven modular vim distribution with ultimate vim configuration and many build-in features.
 
 ## Terminal
 

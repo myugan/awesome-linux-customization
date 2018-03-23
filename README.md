@@ -57,7 +57,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 ## System Info
 
 - [**neofetch**](https://github.com/dylanaraps/neofetch) - A customizable system information written in Bash.
-- [**screenfetch**](https://github.com/dylanaraps/neofetch) - Bash screenshot information tool.
+- [**screenfetch**](https://github.com/KittyKatt/screenFetch) - Bash screenshot information tool.
 - [**ufetch**](https://github.com/jschx/ufetch) - Tiny system info for Unix-like operating systems
 
 ## Text Editor

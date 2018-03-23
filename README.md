@@ -30,83 +30,87 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 ## File Manager
 
-- **ranger** - A vim inspired filemanager for console.
-- **Thunar** - A modern file manager for the Xfce Desktop Environment.
-- **PCManFM** - A lightweight Gtk+ based file manager for X Window.
+- [**ranger**](https://github.com/ranger/ranger) - A vim inspired filemanager for console.
+- [**Thunar**](https://github.com/xfce-mirror/thunar) - A modern file manager for the Xfce Desktop Environment.
+- [**PCManFM**](https://wiki.lxde.org/en/PCManFM) - A lightweight Gtk+ based file manager for X Window.
 
 ## Music Player
 
-- **mpc** - Client for `mpd`, responsible for telling lemonbar about the currently playing media.
-- **mpd** - A daemon for playing music of various formats with `ncmpcpp` as client.
-- **cmus** - A small ncurses based music player.
-- **ncmpcpp** - An ncurses Music Player Daemon (MPD) client.
+- [**mpc**](https://github.com/MusicPlayerDaemon/mpc) - Client for `mpd`, responsible for telling lemonbar about the currently playing media.
+- [**mpd**](https://github.com/MusicPlayerDaemon/MPD) - A daemon for playing music of various formats with `ncmpcpp` as client.
+- [**cmus**](https://github.com/cmus/cmus) - A small ncurses based music player. <!-- need more info -->
+
+- [**ncmpcpp**](https://github.com/arybczak/ncmpcpp) - An ncurses Music Player Daemon (MPD) client.
 
 ## Music Visualizer
 
-- **cava** - Console-based Audio Visualizer for Alsa (MPD and Pulseaudio).
-- **mpdviz** - Console mpd visualizer like `cava`.
+- [**cava**](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa (MPD and Pulseaudio). 
+
+
+- [**mpdviz**](https://github.com/lucy/mpdviz) - Console mpd visualizer like `cava`.
 
 ## Image Viewer
  
-- **feh** - A lightweight image viewer.
-- **sxiv** - Simple X Image viewer like `feh`.
-- **n30f** - Image viewer to display an image in a borderless and transparent non-wm-managed window.
-- **gpicview** - A Simple and Fast Image Viewer for X.
-- **nitrogen** - A GUI background previewer and setter.
+- [**feh**](https://github.com/derf/feh) - A lightweight image viewer.
+- [**sxiv**](https://github.com/muennich/sxiv) - Simple X Image viewer like `feh`.
+
+- [**n30f**](https://github.com/sdhand/n30f) - Image viewer to display an image in a borderless and transparent non-wm-managed window.  <!-- need more info -->
+- [**gpicview**](https://wiki.lxde.org/en/GPicView) - A Simple and Fast Image Viewer for X. <!-- need more info -->
+- [**nitrogen**](https://github.com/l3ib/nitrogen) - A GUI background previewer and setter.
 
 ## System Info
 
-- **neofetch** - A customizable system information written in Bash.
-- **screenfetch** - Bash screenshot information tool.
-- **ufetch** - Tiny system info for Unix-like operating systems
+- [**neofetch**](https://github.com/dylanaraps/neofetch) - A customizable system information written in Bash.
+- [**screenfetch**](https://github.com/dylanaraps/neofetch) - Bash screenshot information tool.
+- [**ufetch**](https://github.com/jschx/ufetch) - Tiny system info for Unix-like operating systems
 
 ## Text Editor
 
-- **neovim** - Vim-fork focused on extensibility and usability.
-- **vim** - Vi IMproved, a programmer's text editor.
+- [**neovim**](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+- [**vim**](https://github.com/vim/vim) - Vi IMproved, a programmer's text editor.
 
 ## Terminal
 
-- **rxvt-unicode** - A customizable terminal emulator forked from `rxvt`.
-- **xterm** - The standard terminal emulator for the X Window System
-- **st** - A simple terminal emulator for X which sucks less, with xft. 
+- [**rxvt-unicode**](https://github.com/exg/rxvt-unicode) - A customizable terminal emulator forked from `rxvt`.
+- [**xterm**](https://wiki.archlinux.org/index.php/Xterm) - The standard terminal emulator for the X Window System
+- [**st**](https://st.suckless.org/) - A simple terminal emulator for X which sucks less, with xft. 
 
 ## Menu
 
-- **dmenu** - A fast and lightweight dynamic menu for X.
-- **jgmenu** - Small X11 menu intended to be used with openbox and tint2.
-- **myGtkMenu** - GTK2, GTK3 standalone & lightweight menu written in C
-- **rofi** - A window switcher, application launcher and dmenu replacement
+- [**dmenu**](https://github.com/l3pp4rd/dmenu) - A fast and lightweight dynamic menu for X. <!-- need more info -->
+- [**jgmenu**](https://github.com/johanmalm/jgmenu) - Small X11 menu intended to be used with openbox and tint2.
+- [**myGtkMenu**](https://sites.google.com/site/jvinla/mygtkmenu) - GTK2, GTK3 standalone & lightweight menu written in C <!-- need more info -->
+- [**rofi**](https://github.com/DaveDavenport/rofi) - A window switcher, application launcher and dmenu replacement
 
 ## Panel
 
-- **lemonbar** - A featherweight, lemon-scented, bar based on xcb.
-- **polybar** - A fast and easy-to-use status bar.
-- **dzen2** - A general purpose messaging, notification and menuing program for X11. 
-- **xmobar** - A minimalistic, mostly text-based status bar.
-- **tint2** - A lightweight panel/taskbar with support system try.
+- [**lemonbar**](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb.
+- [**polybar**](https://github.com/jaagr/polybar) - A fast and easy-to-use status bar.
+- [**dzen2**](https://wiki.archlinux.org/index.php/Dzen) - A general purpose messaging, notification and menuing program for X11. 
+- [**xmobar**](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar.
+- [**tint2**](https://gitlab.com/o9000/tint2) - A lightweight panel/taskbar with support system try.
 
 ## Dock
 
-- **Plank** - A simplest dock on the planet, famous dock for linux user.
-- **Cairo Dock** - A desktop interface that takes the shape of docks, desklets, panel, etc
+- [**Plank**](https://wiki.archlinux.org/index.php/Plank) - A simplest dock on the planet, famous dock for linux user.
+- [**Cairo Dock**](http://glx-dock.org/) - A desktop interface that takes the shape of docks, desklets, panel, etc
 
 ## Logout Screen
 
-- **lxsession-logout** - A nice banner-style logout dialog for the LXDE.
-- **oblogout** - GTK/Cairo based logout box styled for openbox.
-- **clearine** - Yet another GTK3-based logout-window overlay for independent windowmanager 
+- [**lxsession-logout**](https://wiki.lxde.org/en/LXSession) - A nice banner-style logout dialog for the LXDE.
+- [**oblogout**](https://wiki.archlinux.org/index.php/Oblogout) - GTK/Cairo based logout box styled for openbox.<!-- need more info -->
+- [**clearine**](https://github.com/yuune/clearine) - Yet another GTK3-based logout-window overlay for independent windowmanager 
 
 ## Tweaks
 
-- **wal** - Generate and change colorschemes on the fly.
-- **pywal** - Generate and change colorschemes on the fly. A `wal` rewrite in Python 3.  
-- **wpgtk** - A powerful GTK+ frontend for pywal, adding features such as flexible templates and editing colorschemes.
-- **tintyourday** - Generate your `tint2` config with Xresources color 
-- **obtgen** - Openbox theme generator.
-- **Shift** - An instantly window manager theme changer.
-- **colorfil** - Generate 16 color for Xresources colorscheme from one-color.
-- **colorls** - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
+- [**wal**](https://github.com/dylanaraps/wal) - Generate and change colorschemes on the fly.
+- [**pywal**](https://github.com/dylanaraps/pywal) - Generate and change colorschemes on the fly. A `wal` rewrite in Python 3.  
+- [**wpgtk**](https://github.com/deviantfero/wpgtk) - A powerful GTK+ frontend for pywal, adding features such as flexible templates and editing colorschemes.
+- [**tintyourday**](https://github.com/yuune/tintyourday) - Generate your `tint2` config with Xresources color 
+- [**obtgen**](https://github.com/fikriomar16/obtgen) - Openbox theme generator.
+- [**Shift**](https://github.com/noirecat/Shift ) - An instantly window manager theme changer.
+- **colorfil** - Generate 16 color for Xresources colorscheme from one-color. <!-- need more info-->
+- [**colorls**](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
 
 ## Contribute
 

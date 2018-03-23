@@ -106,6 +106,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - **obtgen** - Openbox theme generator.
 - **Shift** - An instantly window manager theme changer.
 - **colorfil** - Generate 16 color for Xresources colorscheme from one-color.
+- **colorls** - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
 
 ## Contribute
 

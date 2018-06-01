@@ -4,7 +4,7 @@ This is a list of customization tools for Linux user to make the desktop more ae
 
 ### Contents
 
-  - [File Manager]($file-manager)
+  - [File Manager](#file-manager)
   - [Music Player](#music-player)
   - [Music Visualizer](#music-visualizer)
   - [Image Viewer](#image-viewer)

@@ -45,7 +45,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - [**cava**](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa (MPD and Pulseaudio). 
 - [**mpdviz**](https://github.com/lucy/mpdviz) - Console mpd visualizer like `cava`.
-
+- [**nausea**](https://github.com/ViktorNova/nausea) - This is a simple Console audio spectrum visualizer, Work well with mpd daemon music player.
 ## Image Viewer
  
 - [**feh**](https://github.com/derf/feh) - A lightweight image viewer.

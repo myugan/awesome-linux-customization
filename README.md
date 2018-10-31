@@ -96,7 +96,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - [**lxsession-logout**](https://wiki.lxde.org/en/LXSession) - A nice banner-style logout dialog for the LXDE.
 - [**oblogout**](https://wiki.archlinux.org/index.php/Oblogout) - GTK/Cairo based logout box styled for openbox.
-- [**clearine**](https://github.com/yuune/clearine) - Yet another GTK3-based logout-window overlay for independent windowmanager 
+- [**clearine**](https://github.com/yuune/clearine) - Beautiful logout UI for X11 window manager
 
 ## Tweaks
 
@@ -108,7 +108,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**Shift**](https://github.com/noirecat/Shift ) - An instantly window manager theme changer.
 - [**colorfil**](https://github.com/yuune/colorfil) - Generate 16 color for Xresources colorscheme from one-color.
 - [**colorls**](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
-- [**Cornora**](https://github.com/yuune/Cornora) - Simple Hotcorner Launcher for X
+- [**cornora**](https://github.com/yuune/cornora) - Deadly-simple hotcorner launcher for X11
 
 ## Contribute
 

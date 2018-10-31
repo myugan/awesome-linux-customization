@@ -96,7 +96,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - [**lxsession-logout**](https://wiki.lxde.org/en/LXSession) - A nice banner-style logout dialog for the LXDE.
 - [**oblogout**](https://wiki.archlinux.org/index.php/Oblogout) - GTK/Cairo based logout box styled for openbox.
-- [**clearine**](https://github.com/yuune/clearine) - Yet another GTK3-based logout-window overlay for independent windowmanager 
+- [**clearine**](https://github.com/yuune/clearine) - Beautiful logout UI for X11 window manager
 
 ## Tweaks
 

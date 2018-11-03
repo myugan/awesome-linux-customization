@@ -14,6 +14,7 @@ This is a list of customization tools for Linux user to make the desktop more ae
   - [Menu](#menu)
   - [Panel](#panel)
   - [Dock](#dock)
+  - [Notification Daemon](#notification-daemon)
   - [Tweaks](#tweaks)
 
 
@@ -91,6 +92,10 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 - [**Plank**](https://wiki.archlinux.org/index.php/Plank) - A simplest dock on the planet, famous dock for linux user.
 - [**Cairo Dock**](http://glx-dock.org/) - A desktop interface that takes the shape of docks, desklets, panel, etc
+
+## Notification Daemon
+
+- [**dunst**](https://dunst-project.org/) - A lightweight replacement for the notification daemons provided by most desktop environments.
 
 ## Logout Screen
 

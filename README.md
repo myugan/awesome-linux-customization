@@ -115,6 +115,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**colorls**](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
 - [**Cornora**](https://github.com/yuune/Cornora) - Simple Hotcorner Launcher for X
 - [**Colorizer**](https://github.com/reorr/Colorizer) - Colorize gtk theme, xfwm theme, openbox theme, etc with .Xresources color
+- [**Compton**](https://github.com/chjj/compton) - A compositor for X11.
 
 ## Contribute
 

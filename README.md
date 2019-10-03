@@ -114,7 +114,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**colorfil**](https://github.com/yuune/colorfil) - Generate 16 color for Xresources colorscheme from one-color.
 - [**colorls**](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
 - [**Cornora**](https://github.com/yuune/Cornora) - Simple Hotcorner Launcher for X
-- [**Colorizer**](https://github.com/reorr/Colorizer) - Colorize gtk theme, xfwm theme, openbox theme, etc with .Xresources color
+- [**warnai**](https://github.com/reorr/warnai) - Swiss army theme changer from .Xresources
 - [**Compton**](https://github.com/chjj/compton) - A compositor for X11.
 
 ## Contribute

@@ -17,7 +17,6 @@ This is a list of customization tools for Linux user to make the desktop more ae
   - [Notification Daemon](#notification-daemon)
   - [Tweaks](#tweaks)
 
-
 # Intro to Dotfiles
 
 **Dotfiles** are plain text configuration files on Unix-y systems for things like our shell, `~/.zshrc` , our editor in `~/.vimrc` , and many others. They are called "dotfiles" as they typically are named with a leading.
@@ -60,6 +59,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**neofetch**](https://github.com/dylanaraps/neofetch) - A customizable system information written in Bash.
 - [**screenfetch**](https://github.com/KittyKatt/screenFetch) - Bash screenshot information tool.
 - [**ufetch**](https://github.com/jschx/ufetch) - Tiny system info for Unix-like operating systems
+- [**pfetch**](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
 
 ## Text Editor
 
@@ -119,8 +119,14 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 ## Contribute
 
-**Fork** this repository (optional) and share to other Linux users.
+**Fork** this repository (optional) and share to other GNU/Linux users.
 
 ### License
 
 The code is available under the [MIT license](LICENSE).
+
+### Credits
+
+- Thanks to all contributor who want to share their customize desktop.
+- Especially [**Linuxer Desktop Art**](https://www.facebook.com/groups/linuxart/?ref=group_header)
+

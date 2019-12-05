@@ -120,7 +120,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 
 ## Screen Manager
 
-- [**lxrandr**] - standard screen manager of LXDE.
+- [**lxrandr**](https://wiki.lxde.org/en/LXRandR) - standard screen manager of LXDE.
 
 ## Contribute
 

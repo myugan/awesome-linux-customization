@@ -16,6 +16,7 @@ This is a list of customization tools for Linux user to make the desktop more ae
   - [Dock](#dock)
   - [Notification Daemon](#notification-daemon)
   - [Tweaks](#tweaks)
+  - [Screen Manager](#screen-manager)
 
 # Intro to Dotfiles
 
@@ -116,6 +117,10 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**Cornora**](https://github.com/yuune/Cornora) - Simple Hotcorner Launcher for X
 - [**warnai**](https://github.com/reorr/warnai) - Swiss army theme changer from .Xresources
 - [**Compton**](https://github.com/chjj/compton) - A compositor for X11.
+
+## Screen Manager
+
+- [**lxrandr**] - standard screen manager of LXDE.
 
 ## Contribute
 

@@ -17,6 +17,7 @@ This is a list of customization tools for Linux user to make the desktop more ae
   - [Notification Daemon](#notification-daemon)
   - [Tweaks](#tweaks)
   - [Screen Manager](#screen-manager)
+  - [Others](#others)
 
 # Intro to Dotfiles
 
@@ -121,6 +122,12 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 ## Screen Manager
 
 - [**lxrandr**](https://wiki.lxde.org/en/LXRandR) - standard screen manager of LXDE.
+
+## Others
+
+- [**colorls**](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the ls output with color and icons.
+- [**exa**](https://the.exa.website/) - A modern replacement for `ls`.
+- [**ls++**](https://github.com/trapd00r/ls--) - `ls` on steroids.
 
 ## Contribute
 

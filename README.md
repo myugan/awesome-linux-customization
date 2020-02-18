@@ -1,6 +1,9 @@
 # Awesome Linux Customization 
 
-This is a list of customization tools for Linux user to make the desktop more aesthetic.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/myugan/awesome-linux-customization/)
+
+List of customization tools for **UN*X/Linux** user to make the desktop more _aesthetic_ adn _clean_ for productivity.
 
 ### Contents
 
@@ -35,6 +38,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**ranger**](https://github.com/ranger/ranger) - A vim inspired filemanager for console.
 - [**Thunar**](https://github.com/xfce-mirror/thunar) - A modern file manager for the Xfce Desktop Environment.
 - [**PCManFM**](https://wiki.lxde.org/en/PCManFM) - A lightweight Gtk+ based file manager for X Window.
+- [**fff***](https://github.com/dylanaraps/fff) - simple file manager written by `bash`.
 
 ## Music Player
 
@@ -48,6 +52,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**cava**](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa (MPD and Pulseaudio). 
 - [**mpdviz**](https://github.com/lucy/mpdviz) - Console mpd visualizer like `cava`.
 - [**nausea**](https://github.com/ViktorNova/nausea) - This is a simple Console audio spectrum visualizer, Work well with mpd daemon music player.
+
 ## Image Viewer
  
 - [**feh**](https://github.com/derf/feh) - A lightweight image viewer.

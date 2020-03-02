@@ -115,6 +115,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**wal**](https://github.com/dylanaraps/wal) - Generate and change colorschemes on the fly.
 - [**pywal**](https://github.com/dylanaraps/pywal) - Generate and change colorschemes on the fly. A `wal` rewrite in Python 3.  
 - [**wpgtk**](https://github.com/deviantfero/wpgtk) - A powerful GTK+ frontend for pywal, adding features such as flexible templates and editing colorschemes.
+- [**spicetify-cli**](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
 - [**tintyourday**](https://github.com/yuune/tintyourday) - Generate your `tint2` config with Xresources color 
 - [**obtgen**](https://github.com/fikriomar16/obtgen) - Openbox theme generator.
 - [**Shift**](https://github.com/noirecat/Shift ) - An instantly window manager theme changer.

@@ -124,6 +124,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**Cornora**](https://github.com/yuune/Cornora) - Simple Hotcorner Launcher for X
 - [**warnai**](https://github.com/reorr/warnai) - Swiss army theme changer from .Xresources
 - [**Compton**](https://github.com/chjj/compton) - A compositor for X11.
+- [**Oomox**](https://github.com/themix-project/oomox) - Generate themes and icons using oomox GUI
 
 ## Screen Manager
 

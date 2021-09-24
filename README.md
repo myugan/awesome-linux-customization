@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/myugan/awesome-linux-customization/)
 
-List of customization tools for **UN*X/Linux** user to make the desktop more _aesthetic_ adn _clean_ for productivity.
+List of customization tools for **UN*X/Linux** user to make the desktop more _aesthetic_ and _clean_ for productivity.
 
 ### Contents
 

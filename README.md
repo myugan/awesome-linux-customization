@@ -39,6 +39,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**Thunar**](https://github.com/xfce-mirror/thunar) - A modern file manager for the Xfce Desktop Environment.
 - [**PCManFM**](https://wiki.lxde.org/en/PCManFM) - A lightweight Gtk+ based file manager for X Window.
 - [**fff***](https://github.com/dylanaraps/fff) - simple file manager written by `bash`.
+- [**Midnight Commander**](https://midnight-commander.org/) - A terminal based file manager.
 
 ## Music Player
 
@@ -46,6 +47,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**mpd**](https://github.com/MusicPlayerDaemon/MPD) - A daemon for playing music of various formats with `ncmpcpp` as client.
 - [**cmus**](https://github.com/cmus/cmus) - A small ncurses based music player.
 - [**ncmpcpp**](https://github.com/arybczak/ncmpcpp) - An ncurses Music Player Daemon (MPD) client.
+- [**Rhythmbox**](http://www.rhythmbox.org/) - A Music Player which takes its inspiration from Apple's iTunes application.
 
 ## Music Visualizer
 
@@ -73,6 +75,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**neovim**](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [**vim**](https://github.com/vim/vim) - Vi IMproved, a programmer's text editor.
 - [**Spacevim**](https://github.com/SpaceVim/SpaceVim) - Community-driven modular vim distribution with ultimate vim configuration and many build-in features.
+- [**Leafpad**](http://tarot.freeshell.org/leafpad/) - Leafpad is a simple GTK+ text editor that emphasizes simplicity.
 
 ## Terminal
 

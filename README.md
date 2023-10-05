@@ -149,6 +149,6 @@ The code is available under the [MIT license](LICENSE).
 
 ### Credits
 
-- Thanks to all contributor who want to share their customize desktop.
+- Thank you to all contributors, who share their custom distros/art with the community.
 - Especially [**Linuxer Desktop Art**](https://www.facebook.com/groups/linuxart/?ref=group_header)
 

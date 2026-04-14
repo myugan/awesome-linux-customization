@@ -128,6 +128,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**warnai**](https://github.com/reorr/warnai) - Swiss army theme changer from .Xresources
 - [**Compton**](https://github.com/chjj/compton) - A compositor for X11.
 - [**Oomox**](https://github.com/themix-project/oomox) - Generate themes and icons using oomox GUI
+- [**ThemeAtlas**](https://github.com/RootHaktivity/ThemeAtlas) - Cross-distro GUI theme browser, previewer, and installer supporting GTK, icon, cursor, and shell themes. Available as AppImage and Flatpak.
 
 ## Screen Manager
 

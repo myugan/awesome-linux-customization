@@ -123,6 +123,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**obtgen**](https://github.com/fikriomar16/obtgen) - Openbox theme generator.
 - [**Shift**](https://github.com/noirecat/Shift ) - An instantly window manager theme changer.
 - [**colorfil**](https://github.com/yuune/colorfil) - Generate 16 color for Xresources colorscheme from one-color.
+- [**Kawaiintu OS**](https://github.com/mifjpn/https://github.com/mifjpn/kawaiintu-os-neo-moebuntu) - A custom OS bypassing GTK4 theme limits via non-destructive Python dynamic hooks to forcefully rotate hues in real-time.
 - [**colorls**](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons
 - [**Cornora**](https://github.com/yuune/Cornora) - Simple Hotcorner Launcher for X
 - [**warnai**](https://github.com/reorr/warnai) - Swiss army theme changer from .Xresources

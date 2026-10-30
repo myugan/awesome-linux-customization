@@ -89,6 +89,7 @@ More about dotfiles check this [link](https://dotfiles.github.io/).
 - [**jgmenu**](https://github.com/johanmalm/jgmenu) - Small X11 menu intended to be used with openbox and tint2.
 - [**myGtkMenu**](https://sites.google.com/site/jvinla/mygtkmenu) - GTK2, GTK3 standalone & lightweight menu written in C.
 - [**rofi**](https://github.com/DaveDavenport/rofi) - A window switcher, application launcher and dmenu replacement
+- [**Ulauncher**](https://ulauncher.io/) - Application launcher for Linux.
 
 ## Panel
 
